@@ -10,9 +10,8 @@ A web-based **Knowledge-Based Agent** that navigates a dynamic Wumpus World grid
 
 | | URL |
 |---|---|
-| 🌐 Live Demo | *[Paste Vercel URL here]* |
-| 📦 GitHub | *[Paste GitHub URL here]* |
-| 💼 LinkedIn Post | *[Paste LinkedIn URL here]* |
+| 🌐 Live Demo | (https://wumpus-agent-six.vercel.app/) |
+
 
 ---
 
